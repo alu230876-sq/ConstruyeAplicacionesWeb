@@ -1,0 +1,32 @@
+.body{
+    background-color: honeydew;
+}
+.img {
+    width: 200px;
+    height:100px;
+}
+.div{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    color: cadetblue;
+}
+.h2{
+    text-align: center;
+    color: darkmagenta;
+}
+.h3{
+    text-align: center;
+    color: blueviolet;
+}
+.p{
+    text-align: center;
+    color: purple;
+}
+.footer{
+    position:fixed;
+    bottom: 0;
+    width: 100px;
+    text-align: center;
+}
